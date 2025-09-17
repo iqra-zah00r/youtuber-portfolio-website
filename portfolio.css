@@ -9,7 +9,7 @@ html {
 }
 header {
   padding: 10px 50px;
-  background: #faffea;
+
 }
 
 nav {
@@ -78,7 +78,6 @@ nav {
 
 /* Hero Section */
 .hero {
- background: #faffea;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -392,4 +391,5 @@ section {
     align-self: stretch;
     text-align: center;
   }
+
 }
